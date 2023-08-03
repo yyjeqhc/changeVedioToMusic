@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Extrator</string>
+    <string name="button">Button</string>
+    <string name="openFile">打开文件夹</string>
+    <string name="openGallery">打开相册</string>
+</resources>
